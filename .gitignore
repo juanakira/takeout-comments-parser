@@ -1,0 +1,5 @@
+# Ignore files inside the input and output folders
+input/*.html
+output/*.html
+output/*.md
+node_modules
